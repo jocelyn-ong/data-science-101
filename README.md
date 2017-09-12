@@ -11,6 +11,8 @@
 ## Roadmap
 
 - What is data science
+	- Overview
+	- Tools I use
 - Foundations
 	- Python (and libraries)
 	- Statistics
