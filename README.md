@@ -5,8 +5,8 @@
 - This is not a comprehensive guide to data science
 - YDKWYDK
 	- You don't know what you don't know
-	- I'm just trying to provide a first look/ rough guide
-	- Dig deeper on your own, you'll learn more that way
+- I'm just trying to provide a first look/ rough guide
+- Dig deeper on your own, you'll learn more that way
 
 ## Roadmap
 
